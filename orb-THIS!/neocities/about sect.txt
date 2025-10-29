@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The web site of nish-d</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+
+ <img src="/images/portrait.png" alt="a photo of me :)">
+ <p>Hello! This is where I would put my "about me" section - if I had one❗❗❗</p>
+ <br>
+ <p>In place of a soon-to-come about section, I will instead redirect you to listen to Kirby's tunes. Have fun!</p>
+ <a href='https://tinybird.info/image-to-bitsy-hd/' target="_blank">image pixel-o-fied by image-to-bitsy-hd</a>
+
+  </body>
+</html>

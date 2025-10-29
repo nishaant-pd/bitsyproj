@@ -1,0 +1,466 @@
+My Heart Saurs For You
+
+# BITSY VERSION 8.4
+
+! VER_MAJ 8
+! VER_MIN 4
+! ROOM_FORMAT 1
+! DLG_COMPAT 0
+! TXT_MODE 0
+
+PAL 0
+153,93,57
+173,202,129
+78,220,40
+NAME main
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,a,a,a,a
+a,0,0,b,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,0,0,0,0,b,0,0,0,0,b,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,b,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,b,0,0,0,0,0,0,b,c,0,0,0,g
+0,0,0,0,c,0,0,0,c,0,0,0,0,c,0,0
+0,0,c,0,0,0,c,0,0,0,c,0,0,0,a,a
+0,0,0,0,b,0,0,0,0,0,0,0,b,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,a,0,0,0,0,0,0,0,0,0,0,a,a,a
+a,a,a,a,a,a,a,a,a,0,0,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME start
+EXT 15,7 1 0,7 FX slide_r
+PAL 0
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,0,0,g
+a,a,a,a,0,d,0,0,0,0,0,0,0,0,0,0
+a,b,0,0,0,0,0,0,0,0,0,c,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,c,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,d,0,0,b,0,0,c,0,0,0,0,0,a
+a,0,c,0,0,0,0,0,0,0,0,0,0,0,0,a
+0,0,0,0,0,0,0,0,0,c,0,0,0,b,0,a
+a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,c,0,0,0,0,0,0,0,0,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,d,a
+a,a,d,0,0,0,0,0,0,0,b,0,0,0,0,a
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,0,a,0,a,0,d,0,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME clearing
+ITM 0 8,4
+ITM 0 12,11
+ITM 0 8,12
+EXT 15,0 2 0,6
+PAL 0
+
+ROOM 2
+a,a,a,a,a,a,a,a,g,g,g,g,a,a,a,a
+a,a,a,a,a,a,0,b,0,0,0,0,0,a,a,a
+a,0,0,b,b,0,0,0,0,0,0,b,0,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,b,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,b,0,0,0,0,0,0,0,0,0,d,0,0,0,a
+g,0,0,0,0,c,0,0,b,c,0,0,0,0,0,a
+0,0,0,0,0,0,0,0,0,0,0,b,0,0,0,a
+a,0,c,0,0,0,0,c,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,b,0,a
+a,a,b,0,0,0,d,0,0,0,0,0,0,0,0,a
+a,a,0,0,0,0,0,0,0,0,b,0,d,0,0,a
+a,a,a,d,0,0,0,0,0,0,0,d,0,0,a,a
+a,a,a,a,0,a,a,a,a,a,a,0,0,d,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME Tony's place!
+EXT 0,6 1 15,0
+EXT 8,0 3 6,15 DLG 7
+EXT 9,0 3 8,15 DLG 7
+EXT 10,0 3 8,15 DLG 7
+EXT 11,0 3 8,15 DLG 7
+PAL 0
+
+ROOM 3
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+f,f,f,f,f,f,f,f,f,f,a,f,f,f,f,f
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+f,f,a,f,f,f,f,f,f,f,f,f,f,f,f,f
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+f,f,f,f,f,f,f,f,f,f,f,f,f,a,f,f
+f,f,f,f,a,a,a,a,a,f,f,f,f,f,f,f
+f,a,a,a,a,a,a,a,a,a,a,a,f,f,f,f
+f,a,a,a,a,0,0,b,0,a,a,a,f,f,f,f
+f,a,a,b,0,0,0,0,0,b,a,a,f,f,f,f
+f,a,a,a,0,0,0,0,0,b,a,a,f,f,f,f
+f,a,a,a,a,0,0,b,0,0,a,a,a,f,f,f
+f,f,a,a,a,d,0,0,0,0,d,a,a,f,f,f
+f,f,f,a,a,a,0,0,0,0,0,a,a,f,f,f
+f,f,a,a,a,a,0,0,g,d,0,a,a,f,f,f
+ITM 1 5,10
+EXT 8,15 2 8,0
+PAL 0
+
+TIL a
+01111110
+11111011
+11111111
+11111110
+11111111
+11111111
+01111110
+01011100
+>
+11111110
+11111111
+11011111
+11111110
+11111111
+11111111
+01111110
+00011101
+NAME bush wall
+WAL true
+
+TIL b
+00000000
+11101000
+10111100
+00000000
+00001100
+00011011
+00000000
+00000000
+NAME mud
+
+TIL c
+00000000
+00111110
+01111100
+01111110
+01111100
+01111110
+00111100
+00000000
+NAME footprint
+
+TIL d
+00000000
+00000000
+00011110
+00110010
+00100110
+01000010
+10010001
+10000011
+NAME rock
+
+TIL e
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL f
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME solid wall
+WAL true
+
+TIL g
+00000000
+01100110
+00111100
+00011000
+00101100
+01100110
+01000010
+00000000
+NAME teleport marker
+
+SPR A
+00000000
+00000000
+00110110
+00101101
+01111111
+01100001
+01111110
+01101010
+>
+00000000
+00110110
+00101101
+00111111
+01100001
+01111110
+01111110
+01101010
+POS 0 4,4
+
+SPR a
+00000000
+10010000
+01100000
+11111100
+01111110
+00111111
+00100010
+01100110
+>
+10010000
+01100000
+11111000
+01111100
+00111111
+00100010
+00100010
+01100110
+NAME dino a
+DLG 0
+POS 0 9,5
+BLIP 1
+
+SPR b
+00000000
+00000000
+01010000
+11100000
+11111111
+00111100
+00010100
+00010100
+>
+00000000
+00000000
+00000000
+01010000
+11100000
+11111111
+00111100
+00010100
+NAME richie
+DLG 3
+POS 1 7,7
+
+SPR c
+00100001
+11010001
+11111111
+11111110
+00111110
+00001010
+00001010
+00011011
+>
+00000000
+00100001
+11010001
+11111111
+11111110
+00111110
+00001010
+00011011
+NAME tony
+DLG 4
+POS 2 11,7
+
+SPR d
+00000000
+00000000
+00100100
+01111110
+01111110
+01111110
+00111100
+00011000
+NAME heart
+
+ITM 0
+00000000
+00000000
+00100100
+01011010
+01011010
+00100100
+00000000
+00000000
+>
+00000000
+00000000
+01100110
+10011001
+10011001
+01100110
+00000000
+00000000
+NAME fly
+
+ITM 1
+11111111
+10011101
+10011101
+10000101
+10110101
+10100101
+10100101
+11111111
+NAME beanbag chair
+DLG 5
+
+DLG 0
+{shk}RAWR!{/shk} I'm the scariest dinosaur around! And I'm not scared of anything!{pg}Well... I am scared of one thing. See those footprints over there? Those are the footprints of the biggest dinosaur of them all...{pg}{shk}TONY{/shk}{pg}I hear he eats entire mountains for breakfast.
+NAME dino a dialog
+
+DLG 3
+"""
+{
+  - {talked_to_tony} == 0 ?
+    Woah there buddy, are you going to Tony's place? He'll eat you alive!{pg}Actually, he'll probably eat you dead. Either way it's a bad time for you.
+  - else ?
+    {
+      - {item "1"} == 0 ?
+        So Tony says sorry? I mean that's nice, but he still ate my family and stuff. Tell you what, there's this photo of Tony and I together, {drwi "beanbag chair"} but it's back in his cave. Can you go back and get it for me? Maybe it'll rekindle our love, or something.{talked_to_richie = 1}
+      - else ?
+        Aww... This brings back memories. Thanks little frog. I definitely forgive Tony now. After all, I always have other cousins.{pg}{end}By {rbw}Nishaant Derasari {drws "heart"}{/rbw}
+    }
+}
+"""
+NAME richie dialog
+
+DLG 4
+"""
+{
+  - {talked_to_tony} == 0 ?
+    Ah, another small creature come to I, Tony's, lair{wvy}...{/wvy}{pg} 
+    {wvy}...{/wvy}{pg}{wvy}......{/wvy}{pg} 
+    {wvy}............{/wvy}{pg}Look, I'm gonna level with you. I'm a big strong dinosaur, sure. But recently I've been having some relationship issues.{pg}Did you see another dinosaur back there? Small, Deinonychus looking kinda guy?{pg}That's Richie. He's my partner, but he got mad at me recently because I "ate his cousins at the family reunion."{pg}Now he doesn't even want to see me! Can you apologize to him for me?{talked_to_tony = 1}
+  - else ?
+    Can you apologize to Richie {drws "dino b"} on my behalf? Thanks!
+}
+"""
+NAME tony dialog
+
+DLG 5
+A photo of Richie and Tony together. Adorable!
+NAME anniversary photo dialog
+
+DLG 7
+"""
+{
+  - {talked_to_richie} >= 1 ?
+    {property locked false}
+  - else ?
+    {property locked true}Mama frog always said not to go into strange clearings. I should remember this for later though.
+}
+"""
+NAME locked clearing
+
+VAR talked_to_tony
+0
+
+VAR talked_to_richie
+0
+
+TUNE 1
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16d2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+4l,0,0,0,s,0,3l,0,0,0,2s,0,2m,0,2r,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16l2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3l,0,0,0,s,0,4m,0,0,0,4r,0,0,0,0,0
+16s2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME finale fanfare
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP XFST
+SQR P2 P8
+ARP INT8
+
+TUNE 2
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,2G,0
+G3,0,D,0,G3,0,D,0,2A3,0,E,0,C,0,E,0
+>
+2F#,0,G,0,A,0,F#,0,2E,0,F#,E,4D,0,0,0
+2D,0,E,0,F#,0,D,0,2C,0,2G3,0,2F#3,0,D2,0
+>
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,G,0
+2G2,0,D,D5,G3,G,D,0,2C2,0,E,E5,C3,C,E5,0
+>
+2D,0,C5,B,A,0,A,0,4A,0,0,0,F#,0,0,0
+A2,0,E3,0,C3,0,E3,0,D3,0,A3,0,D,0,0,0
+>
+2E5,0,2G,0,2G5,0,2G,0,2F#5,0,2E5,0,2D5,0,2C5,0
+2C3,0,2E,0,2E5,0,2C,0,2A3,0,2C,0,2F#,0,2E,0
+>
+3B,0,0,0,2E5,0,D5,0,4A,0,0,0,G,0,0,0
+2G3,0,B3,0,2D,0,D3,0,2C3,0,G3,0,D#,0,0,0
+>
+0,0,2G,0,A,0,2B,0,C5,0,B,C5,A,0,G,0
+A2,0,A3,0,C,0,2D,0,D#,0,D,E,C,0,C3,0
+>
+8B,0,0,0,0,0,0,0,A,0,2F#,0,E,0,D,0
+D3,0,A3,0,F#,0,D,0,C,0,2D3,0,C3,0,F#3,0
+NAME tuneful town
+TMP FST
+SQR P4 P2
+
+TUNE 3
+3F5,0,0,A#,0,2C#5,0,A#,3F5,0,0,F#5,0,0,2F5,0
+A#3,C#,F,0,0,F,C#,F,A#3,C#,F,A#,0,A#,C#,F
+>
+3F5,0,0,A,0,2C#5,0,A,3F5,0,0,2A#5,0,A#,D#5,0
+A3,C#,F,A3,0,F,C#,F,A,C#,F,0,D#,0,C#5,0
+>
+4F5,0,0,0,G#,2C#5,0,G#,3F5,0,0,D#5,0,F5,2C#5,0
+G#3,C#,F,3F#,0,0,2F,0,G#3,C#,F,F#,B,A,F,D#
+>
+4D#5,0,0,0,0,0,2A#,0,4A#,0,0,0,0,0,A#,C5
+G3,D#,F,G,0,D#,F,G,G3,D#,G,F,0,F,D#,C#3
+>
+4C#5,0,0,0,0,0,2C#5,0,3C#5,0,0,D#5,0,0,2C#5,0
+F#2,C#,F#3,A#3,0,F#3,C#3,F#3,F#2,A,F#3,C#,0,F#3,A3,F#3
+>
+3C#5,0,0,F,3C5,0,0,C,3C5,0,0,D#,3A#,0,0,0
+F2,D#3,A3,0,0,F3,C#,0,F#2,A#3,D#3,0,0,F#3,C#,C
+>
+3A#,0,0,0,C5,0,C#5,0,A#,0,C#,D#,G#,G#3,0,C#3
+C3,A#3,C,E,A,0,A#,0,0,B2,B3,0,2F,0,0,0
+>
+A#,0,A#3,0,C#,0,F,0,A#,0,0,0,0,0,0,0
+A#2,0,C#3,0,F3,0,A#3,0,D,0,0,0,0,F#3,0,F3
+NAME rhythmic ruins
+TMP MED
+SQR P4 P4
+
+BLIP 1
+A#,F5,F5
+NAME meow
+ENV 40 99 4 185 138
+BEAT 61 115
+SQR P2
+
+BLIP 2
+D5,E5,D5
+NAME pick up key
+ENV 99 65 6 96 152
+BEAT 95 0
+SQR P4
+

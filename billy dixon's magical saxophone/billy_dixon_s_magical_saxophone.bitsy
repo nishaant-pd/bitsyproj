@@ -1,0 +1,1607 @@
+billy dixon's magical saxophone
+
+# BITSY VERSION 8.4
+
+! VER_MAJ 8
+! VER_MIN 4
+! ROOM_FORMAT 1
+! DLG_COMPAT 0
+! TXT_MODE 0
+
+PAL 0
+255,204,122
+0,0,0
+0,0,0
+NAME the present
+
+PAL 1
+208,208,208
+0,0,0
+0,0,0
+NAME the past
+
+PAL 2
+255,255,255
+0,0,0
+0,0,0
+NAME dueling!
+
+PAL 3
+208,208,208
+0,0,0
+125,111,2
+NAME lounge exterior
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME start - antique store
+PAL 0
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME antique store in the past
+EXT 1,6 2 3,3 DLG a
+PAL 1
+
+ROOM 2
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,f,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,g,0,0,0,0,0,0,0,0,g,a
+a,0,0,0,0,0,0,g,0,0,0,0,g,0,0,a
+a,g,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,g,0,0,0,0,g,0,0,0,0,0,0,g,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME outside the antique store
+PAL 1
+
+ROOM 3
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,h,h,h,h,h,h,h,h,h,h,h,h,h,h,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME outside the antique store - jamming version
+ITM 2 13,13
+ITM 2 12,12
+ITM 2 9,13
+ITM 2 11,13
+ITM 2 8,7
+ITM 2 14,7
+ITM 3 4,3
+ITM 2 3,6
+ITM 2 2,4
+ITM 2 1,10
+ITM 2 2,14
+ITM 2 8,10
+ITM 2 13,10
+ITM 2 13,4
+ITM 4 11,3
+PAL 2
+
+ROOM 4
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,f,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,g,0,0,0,0,0,0,0,0,g,a
+a,0,0,0,0,0,0,g,0,0,0,0,g,0,0,a
+a,g,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,g,0,0,0,0,g,0,0,0,0,0,0,g,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME outside the antique store - after duel
+ITM 5 14,6
+EXT 14,6 5 1,6 FX slide_r
+PAL 1
+
+ROOM 5
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,k,c,c,c,c,a
+a,0,0,0,0,g,0,0,0,0,i,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,i,i,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,g,i,0,0,0,a
+a,0,g,0,0,0,0,0,0,0,0,i,0,g,0,a
+a,0,0,0,g,0,0,0,0,0,0,i,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME empty street
+ITM 6 11,4
+ITM 6 12,7
+ITM 6 13,5
+PAL 1
+
+ROOM 6
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,0,a,a,a,a,a,0,a,a,a,a,0,a
+a,a,a,0,a,a,a,a,a,0,a,a,a,a,0,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,a,0,a
+a,a,0,a,a,a,0,a,a,a,a,a,a,a,0,a
+a,a,0,0,0,0,0,a,0,0,0,0,0,a,0,a
+a,a,0,a,0,a,0,a,0,a,a,a,a,a,0,a
+a,0,0,a,0,a,0,0,0,a,0,0,0,a,0,a
+a,0,a,a,a,a,0,a,0,a,a,0,0,0,0,a
+a,0,a,0,0,0,0,a,0,0,a,0,a,a,0,a
+a,0,a,a,a,a,0,a,a,0,a,0,a,a,0,a
+a,0,a,a,a,a,0,a,a,0,a,0,a,a,0,a
+a,0,a,0,0,0,0,0,0,0,a,0,a,a,0,a
+a,0,a,0,a,a,a,a,0,0,0,0,a,a,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME empty street - jamming version
+ITM 7 12,6
+ITM 7 6,10
+ITM 7 3,14
+ITM 7 4,8
+ITM 7 12,4
+ITM 7 3,1
+ITM 7 13,1
+ITM 7 14,14
+ITM 7 10,8
+ITM 7 8,14
+ITM 5 14,3
+EXT 14,3 7 9,6 FX tunnel
+PAL 2
+TUNE 6
+
+ROOM 7
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,g,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,g,0,0,0,0,a
+a,0,g,0,0,0,0,0,0,0,0,0,0,g,0,a
+a,0,0,0,g,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME empty street - after duel
+ITM 5 14,8
+EXT 14,8 8 1,8
+PAL 1
+
+ROOM 8
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,q,0,0,0,0,0,0,0,0,0,0,q,0,a
+a,0,0,0,0,0,q,0,0,n,n,n,n,n,n,a
+a,0,0,0,0,0,0,0,p,0,0,0,0,0,0,a
+a,q,0,0,0,0,0,0,0,m,m,m,m,m,m,a
+a,0,0,0,0,0,q,0,0,l,o,o,o,o,o,a
+a,0,0,0,0,i,i,i,i,l,o,o,o,o,o,a
+a,i,i,i,i,i,0,0,0,o,o,f,o,o,o,a
+a,0,0,0,0,0,0,n,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME outside the lounge
+ITM d 14,3
+ITM c 13,3
+ITM b 12,3
+ITM a 11,3
+ITM 9 10,3
+ITM 8 9,3
+EXT 11,7 9 2,7 FX fade_b
+PAL 3
+
+ROOM 9
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,0,0,s,k,k,k,k,k,k,k,a
+a,0,0,0,0,0,0,s,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,t,0,0,0,0,0,0,0,a
+a,f,0,0,0,0,0,s,u,u,u,u,u,u,u,a
+a,0,0,0,0,0,0,s,b,b,b,b,b,b,b,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME in the lounge
+PAL 1
+
+ROOM a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,u,u,u,u,u,u,u,u,u,u,u,u,u,u,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,h,h,h,h,h,h,h,h,h,h,h,h,h,h,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME in the lounge - jamming
+ITM e 10,4
+ITM 3 5,4
+ITM 2 13,5
+ITM 2 2,3
+ITM 2 1,5
+ITM 2 12,3
+ITM 2 2,11
+ITM 2 9,13
+ITM 2 11,11
+ITM 2 13,13
+ITM 2 14,12
+ITM 2 1,14
+ITM 2 6,10
+PAL 2
+
+ROOM b
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,0,0,0,0,0,0,s,k,k,k,k,k,k,k,a
+a,0,0,0,0,0,0,s,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,t,0,0,0,0,0,0,0,a
+a,f,0,0,0,0,0,s,u,u,u,u,u,u,u,a
+a,0,0,0,0,0,0,s,b,b,b,b,b,b,b,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME in the lounge - after duel
+PAL 1
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME solid wall
+WAL true
+
+TIL b
+01000000
+01000010
+01001010
+01001010
+01001000
+00001000
+01000010
+00000010
+NAME wall from side
+WAL true
+
+TIL c
+00010010
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall from side - bottom
+
+TIL f
+01111110
+10000001
+10000001
+10000001
+10000011
+10000001
+10000001
+10000001
+NAME door
+
+TIL g
+00001000
+01000000
+00000000
+00000010
+00000000
+00010000
+00000001
+01000000
+NAME gravel
+
+TIL h
+00000000
+00000000
+11111111
+01010101
+01010101
+00000000
+11111111
+00100100
+NAME clarinet tile
+
+TIL i
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME invisible wall
+WAL true
+
+TIL k
+00100010
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall from side - bottom - with wall
+WAL true
+
+TIL l
+01110101
+01101010
+01110101
+01101010
+01110101
+01101010
+01110101
+01101010
+NAME sidewall
+WAL true
+
+TIL m
+11111111
+11111111
+00011000
+00011000
+00011000
+01111110
+11111111
+11111111
+NAME roof
+WAL true
+
+TIL n
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+11111111
+11111111
+NAME half wall
+WAL true
+
+TIL o
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+NAME checker bg
+
+TIL p
+00001111
+00001111
+00001111
+00001111
+00001111
+00001111
+00001111
+00001111
+NAME side sign
+WAL true
+
+TIL q
+00000000
+00100000
+01110000
+00100000
+00000010
+00000111
+00000010
+00000000
+>
+00000000
+01010000
+00100000
+01010000
+00000101
+00000010
+00000101
+00000000
+NAME twinkle
+
+TIL s
+00000011
+00000011
+00000011
+00000011
+00000011
+00000011
+00000011
+00000011
+NAME side stage
+WAL true
+
+TIL t
+00000011
+00000011
+00111111
+00100001
+01111111
+01000001
+11111111
+10000011
+NAME stairs
+
+TIL u
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+NAME bottom line
+
+SPR 10
+11111110
+10000010
+11010010
+10000010
+11111110
+00101000
+00101010
+11101100
+>
+11111110
+10000010
+11010010
+10000010
+11111110
+00101000
+00101000
+11101110
+NAME gang leader
+DLG l
+POS 5 10,6
+BLIP 8
+
+SPR 11
+11111110
+10000010
+11010010
+10000010
+11111110
+00101000
+00101010
+11101100
+>
+11111110
+10000010
+11010010
+10000010
+11111110
+00101000
+00101000
+11101110
+NAME gang leader - after duel
+DLG n
+POS 7 10,6
+
+SPR 12
+00011100
+01111111
+00110110
+00100010
+00111110
+01010100
+01111110
+11010100
+>
+00111000
+11111110
+01101100
+01000100
+01111100
+00101010
+01111110
+00101011
+NAME billy dixon
+DLG o
+POS 9 12,5
+
+SPR 13
+01000010
+01111110
+01000010
+01101010
+11000011
+01000010
+01111110
+01000010
+>
+01000010
+01111110
+01000010
+01010110
+11000011
+01000010
+01111110
+01000010
+NAME audience
+POS 9 3,4
+
+SPR 14
+01100110
+11111111
+10000001
+10100101
+10000001
+10000001
+11111111
+00100100
+NAME audience 2
+POS 9 5,8
+
+SPR 15
+01111110
+10000001
+10011001
+10001001
+10001001
+10011101
+10000001
+01111110
+NAME note block 1-b
+DLG p
+POS a 4,11
+
+SPR 16
+01111110
+10000001
+10011001
+10001001
+10010001
+10011001
+10000001
+01111110
+NAME note block 2-b
+DLG q
+POS a 3,12
+
+SPR 17
+01111110
+10000001
+10011001
+10000101
+10011001
+10000101
+10011001
+01111110
+NAME note block 3-b
+DLG r
+POS a 5,12
+
+SPR 18
+01111110
+10000001
+10101001
+10101001
+10111101
+10001001
+10000001
+01111110
+NAME note block 4-b
+DLG s
+POS a 4,13
+
+SPR 19
+00011100
+01111111
+00110110
+00100010
+00111110
+01010100
+01111110
+11010100
+>
+00111000
+11111110
+01101100
+01000100
+01111100
+00101010
+01111110
+00101011
+NAME billy dixon - after jam
+DLG t
+POS b 12,5
+
+SPR A
+01011000
+01111100
+01010100
+01111100
+00111000
+01111100
+00111000
+00101000
+POS 0 2,6
+
+SPR c
+00111110
+00101010
+00110110
+11111111
+01000000
+01000000
+01000000
+01000000
+NAME table 1 - antique store
+DLG 3
+POS 0 8,7
+
+SPR d
+00000000
+00000000
+00000000
+11111111
+00000010
+00000010
+00000010
+00000010
+NAME table 2 - antique store
+POS 0 9,7
+
+SPR e
+00000000
+00011100
+00110100
+00011100
+00111110
+00011100
+00010100
+00010100
+NAME store owner - present
+DLG 4
+POS 0 6,4
+
+SPR f
+10111001
+10000001
+11111111
+11010101
+10101011
+11111111
+10000001
+10000001
+NAME display case - bottom
+POS 0 13,7
+
+SPR g
+11111111
+10100001
+11000001
+10000101
+10000101
+10001001
+10101001
+10101001
+NAME display case - top
+DLG 5
+POS 0 13,6
+
+SPR h
+00011100
+00111110
+00011100
+00110100
+00011100
+00111110
+00010100
+00010100
+NAME store owner - in the past
+DLG 7
+POS 1 4,4
+
+SPR i
+01010100
+01111100
+01010100
+01111110
+01111100
+11111111
+10000001
+11111111
+NAME bust
+DLG 8
+POS 0 5,7
+
+SPR j
+00000000
+00000000
+00000000
+11111111
+01000000
+01000000
+01000000
+01000000
+NAME table 1 - no box
+POS 1 8,7
+
+SPR k
+00011100
+00111110
+00111110
+01101010
+00111110
+11111111
+10000001
+11111111
+NAME bust - past
+DLG 9
+POS 1 5,7
+
+SPR l
+00000000
+00000000
+00000000
+11111111
+00000010
+00000010
+00000010
+00000010
+NAME table 2 - past
+POS 1 9,7
+
+SPR m
+01000010
+01111110
+01111110
+11010111
+01111110
+01111110
+01111110
+00100100
+>
+01000010
+01111110
+01111110
+01010110
+11111111
+01111110
+01111110
+00100100
+NAME dancing guy 1
+POS 2 10,4
+
+SPR n
+00100000
+11111111
+11111111
+01111110
+01011010
+11111111
+01111110
+01000010
+>
+00100000
+11111111
+11111111
+01111110
+11011011
+01111110
+01111110
+01000010
+NAME dancing guy 2
+POS 2 11,3
+
+SPR o
+01000010
+01111110
+01011010
+11011011
+01111110
+01111110
+01111110
+00100100
+>
+01000010
+01111110
+01011010
+01011010
+11111111
+01111110
+01111110
+00100100
+NAME dancing guy 3
+POS 2 11,5
+
+SPR p
+01000010
+01111110
+01111111
+01011010
+01111110
+11111110
+01111110
+00100100
+>
+01000010
+01111110
+01111110
+11011010
+01111110
+01111111
+01111110
+00100100
+NAME dancing guy 4
+POS 2 10,6
+
+SPR q
+00000000
+01000010
+01111110
+01011010
+11111111
+01111110
+01111110
+00100100
+>
+00000000
+01000010
+01111110
+11011010
+01111111
+01111110
+01111110
+01000100
+NAME dancing guy 5
+POS 2 11,7
+
+SPR r
+01000010
+01111110
+01010110
+11111111
+01010110
+01101110
+01111110
+00100100
+>
+01000010
+01111110
+01010111
+01111110
+11010110
+01101110
+01111110
+00100100
+NAME dancing guy 6
+POS 2 10,8
+
+SPR s
+01111100
+01000110
+01101111
+01000111
+01000101
+00101001
+01111100
+00101000
+>
+01111100
+01000110
+01101111
+01000111
+01000101
+00101001
+01111100
+00101000
+NAME Clara the clarinetist
+DLG b
+POS 2 8,4
+
+SPR t
+00011000
+00011000
+00111100
+11111111
+11111111
+00111100
+00011000
+00011000
+NAME dueling pointer
+
+SPR u
+01111110
+10000001
+10011001
+10001001
+10001001
+10011101
+10000001
+01111110
+NAME note block 1
+DLG c
+POS 3 4,11
+
+SPR v
+01111110
+10000001
+10011001
+10001001
+10010001
+10011001
+10000001
+01111110
+NAME note block 2
+DLG h
+POS 3 3,12
+
+SPR w
+01111110
+10000001
+10011001
+10000101
+10011001
+10000101
+10011001
+01111110
+NAME note block 3
+DLG i
+POS 3 5,12
+
+SPR x
+01111110
+10000001
+10101001
+10101001
+10111101
+10001001
+10000001
+01111110
+NAME note block 4
+DLG j
+POS 3 4,13
+
+SPR y
+01111100
+01000110
+01101111
+01000111
+01000101
+00101001
+01111100
+00101000
+>
+00000000
+01111100
+01000110
+01101111
+01000111
+00101001
+01111101
+00101000
+NAME clara - after dueling
+DLG k
+POS 4 10,4
+
+ITM 2
+00000000
+00011000
+00010100
+00010000
+00001000
+00111000
+00110000
+00000000
+>
+00011000
+00010100
+00010000
+00001000
+00111000
+00110000
+00000000
+00000000
+NAME musical note - decorative
+
+ITM 3
+01101000
+01111100
+01010100
+01111100
+00111000
+01111100
+00111000
+00101000
+>
+00000000
+01101000
+01111100
+01010100
+01111100
+00111000
+01111100
+00101000
+NAME player copy
+
+ITM 4
+01111100
+01000110
+01101111
+01000111
+01000101
+00101001
+01111100
+00101000
+>
+00000000
+01111100
+01000110
+01101111
+01000111
+00101001
+01111101
+00101000
+NAME clara copy
+
+ITM 5
+00000000
+00001100
+00000110
+11111111
+11111111
+00000110
+00001100
+00000000
+>
+00000000
+00000000
+00001100
+00000110
+11111111
+11111111
+00000110
+00001100
+NAME arrow
+
+ITM 6
+01111110
+01000010
+01101010
+11000011
+01111110
+00100100
+00100100
+11100111
+>
+00000000
+01111110
+01000010
+11101011
+01000010
+01111110
+00100100
+11100111
+NAME gang member 1
+
+ITM 7
+00100000
+00000000
+10011000
+00010100
+00010000
+00001000
+00111010
+00110000
+>
+00000001
+00011000
+00010100
+00010000
+10001000
+00111000
+00110000
+10000000
+NAME bad note
+DLG m
+
+ITM 8
+01000000
+10100000
+10100000
+10100000
+10100000
+10111110
+10000001
+01111110
+NAME L
+
+ITM 9
+00111100
+01000010
+01011010
+01011010
+01011010
+01011010
+01000010
+00111100
+NAME O
+
+ITM a
+01000010
+10100101
+10100101
+10100101
+10100101
+10011001
+10000001
+01111110
+NAME U
+
+ITM b
+01110010
+10001101
+10000101
+10110001
+10101001
+10101001
+10100101
+01000010
+NAME N
+
+ITM c
+01111100
+10000010
+10011100
+10100000
+10111110
+10110010
+10000010
+01111100
+NAME G
+
+ITM d
+01111110
+10000001
+10011111
+10000001
+10011111
+10000001
+10000001
+01111111
+NAME E
+
+ITM e
+00011100
+01111111
+00110110
+00100010
+00111110
+00010100
+00111110
+00010100
+>
+00111000
+11111110
+01101100
+01000100
+01111100
+00101000
+01111100
+00101000
+NAME billy dixon fake
+
+DLG 3
+{drws "A"}: Wow! The box where Herbert Hoover kept his fake teeth in!
+NAME table 1 - antique store dialog
+
+DLG 4
+{drws "store owner - present"}: Hey there! Thanks for checking out my shop!{pg}I know it's not much, but you can find some of the world's best antiques here!{pg}Take a look around!
+NAME store owner - present dialog
+
+DLG 5
+{drws "store owner - present"}: careful with that one, that's Billy Dixon's saxophone!{pg}{drws "A"}: Billy Dixon? Who's that?{pg}{drws "store owner - present"}: You don't know Billy Dixon?{pg}{drws "store owner - present"}: He was only the best saxophone player{pg}in all of New Boreleans!{pg}{drws "A"}: Wow! Can I touch it?{pg}{drws "store owner - present"}: Please don't touch it. {pg}{drws "A"}: I'm gonna touch it!{pg}{exit "1" 12 6 "wave"}{drws "A"}: Huh? What happened? This place looks different...{pg}I should ask that guy over there about what's going on.
+NAME display case - top dialog
+
+DLG 7
+"""
+{drws "store owner - in the past"}: Hey kid! Welcome to my store!{pg}{drws "store owner - in the past"}: This is the best antique store in all of New Boreleans - specifically in the year 1923!{pg}{drws "A"}: So this is the year 1923... Lucky he said that.{pg}{drws "store owner - in the past"}: Say buddy, how'd you get here? I didn't see you come in.{pg}{drws "A"}: I touched Billy Dixon's saxophone, and suddenly I travelled to the past!{pg}{drws "store owner - in the past"}: Travelled to the past? Wow, what a shame.{pg}{drws "store owner - in the past"}: You know, Billy Dixon is playing at the Groove Lounge right now!{pg}{drws "A"}: The groove lounge, huh? I should go there!{talked_to_owner_past = 1}
+{drws "store owner - in the past"}: Need directions to the Groove Lounge? It's simple!{pg}{drws "store owner - in the past"}: Just go outside, head left down the street, and go into the lounge!{pg}{drws "store owner - in the past"}: Just make sure not to run into the Double Bass Gang, they mean trouble!
+"""
+NAME store owner - in the past dialog
+
+DLG 8
+{drws "A"}: A bust of Albert Einstein! Lookin' good.
+NAME bust dialog
+
+DLG 9
+{drws "A"}: A bust of John Gilbert! lookin' good.
+NAME bust - past dialog
+
+DLG a
+"""
+{
+  - {talked_to_owner_past} >= 1 ?
+    {property locked false}
+  - else ?
+    {property locked true}I should talk to that guy for information before I leave.
+}
+"""
+NAME locked exit 1
+
+DLG b
+{drws "Clara the clarinetist"}: Hey kid! Welcome to the parade!{pg}{drws "Clara the clarinetist"}: I'm Clara the Clarinetist!{pg}{drws "A"}: Nice to meet you! Do you know the way to the Groove Lounge?{pg}{drws "Clara the clarinetist"}: Yeah, it's right over there, behind the parade.{pg}{drws "Clara the clarinetist"}: But Don't tell me you're already leaving! You just got here!{pg}{drws "Clara the clarinetist"}: Here, take this.{pg}{wvy}{clr 0}you got a clarinet!{/clr}{/wvy}{pg}{drws "Clara the clarinetist"}: Before you go, let's play together a little! {pg}{drws "A"}: Ok, but I don't know how!{pg}{drws "Clara the clarinetist"}: It's easy! I'll show you!{pg}{exit "3" 4 12 "tunnel"}{ava "t"}You know how you've been moving around this whole time? Just move up, down, left, or right to play one of the 4 corresponding notes. Meanwhile, I'll be playing a song with you!{pg}Once you play, say... About {clr 0}52 notes{/clr}, the jam session will be over. Here we go!{tune "5"}
+NAME Clara the clarinetist dialog
+
+DLG c
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 1"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "4" 7 4 "tunnel"}
+}
+"""
+NAME note block 1 dialog
+
+DLG h
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 2"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "4" 7 4 "tunnel"}
+}
+"""
+NAME note block 2 dialog
+
+DLG i
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 3"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "4" 7 4 "tunnel"}
+}
+"""
+NAME note block 3 dialog
+
+DLG j
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 4"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "4" 7 4 "tunnel"}
+}
+"""
+NAME note block 4 dialog
+
+DLG k
+{drws "Clara the clarinetist"}: That was fun! Hey, where did everyone go?{pg}{drws "Clara the clarinetist"}: I guess we were playing for too long.{pg}{drws "Clara the clarinetist"}: Anyway, I hope you find the place you were going to!
+NAME clara - dueling dialog
+
+DLG l
+{drws "gang leader"}: Hey! Watch it kid!{pg}{drws "gang leader"}: Don't you know who I am? I'm the leader of the Double Bass Gang! {pg}{drws "A"}: The Double Bass Gang?! Uh oh...{pg}{drws "gang leader"}: I like ya kid, but I don't wanna set a bad example{pg}{drws "gang leader"}: for my fellow gang members. I'm gonna have to bump ya off! Melodically, of course.{pg}{exit "6" 1 14 "tunnel"}The gang leader pulls out his double bass and starts playing!{pg}He's playing so badly that you feel like you would actually die if any of his notes touched your ears.{pg}Get to the end of the maze without bumping any of the musical notes!
+NAME gang leader dialog
+
+DLG m
+{drws "A"}: ACK!{pg}{exit "5" 1 6 "wave"}{pg}
+NAME bad note dialog
+
+DLG n
+{drws "gang leader"}: What? You listened to my awful music and survived? Impossible!{pg}{drws "gang leader"}: Ooh, you've made me mad now, fellow gang members - get them!{pg}{drws "A"}: {wvy}...{/wvy}{pg}{drws "gang leader"}: Hey, where'd they go?{pg}{drws "gang leader"}: Well... If everyone left, there's no point in fighting with you.{pg}{drws "gang leader"}: I just wanted to show off a little, y'know? You can leave.
+NAME gang leader - after duel dialog
+
+DLG o
+{drws "billy dixon"}: Uh, hey buddy. You're kinda messing up my concert here.{pg}{drws "A"}: Sorry Mr. Billy Dixon, but I need your help!{pg}{drws "billy dixon"}: ...Okay? Why don't you explain it to me?{pg}{wvy}{clr 0}A lot of exposition later{/clr}{/wvy}{pg}{drws "billy dixon"}: Wow. Uh, that's pretty nuts.{pg}{drws "A"}: So how about it? can you help me?{pg}{drws "billy dixon"}: Sure kid! Since you touched my saxophone to get here, touching my saxophone will probably send you back!{pg}{drws "billy dixon"}: Hey... Before you go, do you want to play this next song with me?{pg}{drws "A"}: Really? Of course! Let's do it!{pg}{exit "a" 4 12 "tunnel"}{tune "7"}{ava "dueling pointer"}
+NAME billy dixon dialog
+
+DLG p
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 1"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "b" 11 5 "tunnel"}
+}
+"""
+NAME note block 1-b
+
+DLG q
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 2"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "b" 10 5 "tunnel"}
+}
+"""
+NAME note block 2-b
+
+DLG r
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 3"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "b" 10 5 "tunnel"}
+}
+"""
+NAME note block 3-b
+
+DLG s
+"""
+{
+  - {notes_played} < 52 ?
+    {blip "clarinet 4"}{notes_played = notes_played + 1}
+  - else ?
+    {notes_played = 0}{exit "b" 10 5 "tunnel"}
+}
+"""
+NAME note block 4-b
+
+DLG t
+{drws "billy dixon"}: Haha! That was the best jam I've had in a long while.{pg}{drws "A"}: Thanks! Can you like... send me back now?{pg}{drws "billy dixon"}: Huh? Oh yeah sure. Ready?{pg}{drws "billy dixon"}: 3!{pg}{drws "billy dixon"}: 2!{pg}{drws "billy dixon"}: 1!{pg}{exit "0" 12 6 "wave"}{drws "A"} ...{pg}{drws "A"}: I did it! I'm back in the present!{pg}{drws "store owner - present"}: What just happened? You disappeared for a second, and now you're back?{pg}{drws "A"}: Heh... It's a bit of a long story...{pg}{drws "store owner - present"}: Okay... Can you stop touching the saxophone now?{pg}{drws "A"}: Oh yeah, sorry.{pg}{exit "0" 11 6}{drws "store owner - present"}: Aw, you've probably gotten your fingerprints all over it!{pg}{drws "A"}: Relax buddy, don't be so...{pg}{drws "A"}: {wvy}{clr 0}TREBLE-D{/clr}{/wvy}{pg}{drws "store owner - present"}: ... {pg}{drws "store owner - present"}: ...That was the best joke I've heard in my life.{pg}{end}By {rbw}Nishaant Derasari {drwi "bad note"}{/rbw}
+NAME billy dixon - after jam dialog
+
+VAR talked_to_owner_past
+0
+
+VAR notes_played
+0
+
+TUNE 1
+3d,0,0,0,0,0,d5,0,2l,0,d5,0,3s,0,0,0
+16d2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+4l,0,0,0,s,0,3l,0,0,0,2s,0,2m,0,2r,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16l2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3l,0,0,0,s,0,4m,0,0,0,4r,0,0,0,0,0
+16s2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME finale fanfare
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP XFST
+SQR P2 P8
+ARP INT8
+
+TUNE 2
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,2G,0
+G3,0,D,0,G3,0,D,0,2A3,0,E,0,C,0,E,0
+>
+2F#,0,G,0,A,0,F#,0,2E,0,F#,E,4D,0,0,0
+2D,0,E,0,F#,0,D,0,2C,0,2G3,0,2F#3,0,D2,0
+>
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,G,0
+2G2,0,D,D5,G3,G,D,0,2C2,0,E,E5,C3,C,E5,0
+>
+2D,0,C5,B,A,0,A,0,4A,0,0,0,F#,0,0,0
+A2,0,E3,0,C3,0,E3,0,D3,0,A3,0,D,0,0,0
+>
+2E5,0,2G,0,2G5,0,2G,0,2F#5,0,2E5,0,2D5,0,2C5,0
+2C3,0,2E,0,2E5,0,2C,0,2A3,0,2C,0,2F#,0,2E,0
+>
+3B,0,0,0,2E5,0,D5,0,4A,0,0,0,G,0,0,0
+2G3,0,B3,0,2D,0,D3,0,2C3,0,G3,0,D#,0,0,0
+>
+0,0,2G,0,A,0,2B,0,C5,0,B,C5,A,0,G,0
+A2,0,A3,0,C,0,2D,0,D#,0,D,E,C,0,C3,0
+>
+8B,0,0,0,0,0,0,0,A,0,2F#,0,E,0,D,0
+D3,0,A3,0,F#,0,D,0,C,0,2D3,0,C3,0,F#3,0
+NAME tuneful town
+TMP FST
+SQR P4 P2
+
+TUNE 3
+3F5,0,0,A#,0,2C#5,0,A#,3F5,0,0,F#5,0,0,2F5,0
+A#3,C#,F,0,0,F,C#,F,A#3,C#,F,A#,0,A#,C#,F
+>
+3F5,0,0,A,0,2C#5,0,A,3F5,0,0,2A#5,0,A#,D#5,0
+A3,C#,F,A3,0,F,C#,F,A,C#,F,0,D#,0,C#5,0
+>
+4F5,0,0,0,G#,2C#5,0,G#,3F5,0,0,D#5,0,F5,2C#5,0
+G#3,C#,F,3F#,0,0,2F,0,G#3,C#,F,F#,B,A,F,D#
+>
+4D#5,0,0,0,0,0,2A#,0,4A#,0,0,0,0,0,A#,C5
+G3,D#,F,G,0,D#,F,G,G3,D#,G,F,0,F,D#,C#3
+>
+4C#5,0,0,0,0,0,2C#5,0,3C#5,0,0,D#5,0,0,2C#5,0
+F#2,C#,F#3,A#3,0,F#3,C#3,F#3,F#2,A,F#3,C#,0,F#3,A3,F#3
+>
+3C#5,0,0,F,3C5,0,0,C,3C5,0,0,D#,3A#,0,0,0
+F2,D#3,A3,0,0,F3,C#,0,F#2,A#3,D#3,0,0,F#3,C#,C
+>
+3A#,0,0,0,C5,0,C#5,0,A#,0,C#,D#,G#,G#3,0,C#3
+C3,A#3,C,E,A,0,A#,0,0,B2,B3,0,2F,0,0,0
+>
+A#,0,A#3,0,C#,0,F,0,A#,0,0,0,0,0,0,0
+A#2,0,C#3,0,F3,0,A#3,0,D,0,0,0,0,F#3,0,F3
+NAME rhythmic ruins
+TMP MED
+SQR P4 P4
+
+TUNE 4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d5~3,0,0,0,d5~3,0,0,0,d5~3,0,0,0,d5~3,0,0,0
+NAME duel template
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP SLW
+SQR P4 P8
+
+TUNE 5
+0,r~3,m~3,0,0,r~3,0,r~3,0,m~3,r~3,0,r~3,0,0,0
+d5,0,0,0,d5,0,0,0,d5,0,0,0,d5,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d5,0,0,0,d5,0,0,0,d5,0,0,0,d5,0,0,0
+>
+0,d~3,r~3,0,0,d~3,0,d~3,0,m~3,d~3,0,d~3,0,0,0
+d5,0,0,0,d5,0,0,0,d5,0,0,0,d5,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d5,0,0,0,d5,0,0,0,d5,0,0,0,d5,0,0,0
+NAME clara duel
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP SLW
+SQR P4 P8
+
+TUNE 6
+r,0,s,s,0,0,d,r,l,0,2d,0,s,m,0,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME gang leader duel
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP SLW
+SQR P4 P8
+ARP INT5
+
+TUNE 7
+0,0,d5,l,d5,0,d5,0,l,0,l,0,3s,0,0,0
+d5,0,0,0,d5,0,0,0,d5,0,0,0,d5,0,0,0
+>
+0,s,l,m,s,0,0,m,m,0,d,0,3d,0,0,0
+d5,0,0,0,d5,0,0,0,d5,0,0,0,d5,0,0,0
+NAME dixon duel
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP SLW
+SQR P4 P8
+
+BLIP 3
+F3,A#,A#
+NAME clarinet 1
+ENV 10 55 6 109 61
+BEAT 0 0
+SQR P2
+
+BLIP 4
+C#3,F#,F#
+NAME clarinet 2
+ENV 10 55 6 109 61
+BEAT 0 0
+SQR P2
+
+BLIP 5
+B2,E,E
+NAME clarinet 3
+ENV 10 55 6 109 61
+BEAT 0 0
+SQR P2
+
+BLIP 6
+F2,A#3,A#3
+NAME clarinet 4
+ENV 10 55 6 109 61
+BEAT 0 0
+SQR P2
+
+BLIP 7
+C2,C2,G#3
+NAME greeting 1
+ENV 91 76 4 171 126
+BEAT 32 0
+SQR P4
+
+BLIP 8
+C2,C,C
+NAME bump into
+ENV 35 0 8 156 37
+BEAT 0 0
+SQR P2
+

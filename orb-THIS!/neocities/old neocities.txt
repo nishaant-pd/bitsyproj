@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nish's little website :)</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  
+  
+
+  <body style="background:url('/images/starsforever.gif');">
+
+  <marquee style="color: white">I don't know what to put here I just wanted one of those scrolly thingies ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</marquee>
+
+<!-- the cards -->
+  <div id="container" class="defaults position1">
+    <div id="label">welcome!</div>
+    <span>Hi! I'm Nish! This is my website, feel free to stay awhile</span>
+  </div>
+
+  <div id="container" class="defaults position2">
+    <div id="label">quick links</div>
+    <a href='https://nishaant-pd.itch.io/' target="_blank" style='color: gray'>🎮 play my games!</a>
+    <br>
+    <a href='https://www.youtube.com/@NISHAANTDERASARI' target="_blank" style='color: gray'>🎥 watch my movies!</a>
+    <p>⬆ <b>"A Pop Up To The Moon"</b> coming soon(ish)!</p>
+  </div>
+
+
+
+  <!-- bumper stickers -->
+  <img src="/images/calvinhobbes.gif" style="margin-left: 257px; margin-top: 320px" width="160" height="30" class="wobbly" alt="Calvin and Hobbes appreciation sticker">
+  <br>
+  <img src="/images/gnomesinchaps.png" style="margin-left: 250px; margin-top: 20px" width="160" height="30" class="wobbly" alt="gnomes in chaps sticker">
+  <br>
+  <img src="/images/scroll down.png" style="margin-left: 1320px; margin-top: 90px" width="280" height="60" class="wobbly" alt="gnomes in chaps sticker">
+
+  <!-- house -->
+ <br>
+ 
+
+ <img src="/images/house.png" style="margin-top: 200px; position: relative" width="100%" alt="my house">
+ <a href="https://youtu.be/L5Hy978N52g?si=oqAM7NfMzWN_Mzi4" target="_blank"> <!-- TO DO:  make a custom little kirby themed page with a youtube embed playing this song-->
+  <img src="/images/kirby-dancing.gif" style="left: 1080px; top: 1620px; position: absolute" width="140px" alt="kirby dancing">
+ </a>
+ <iframe src="/about_sect.html" title="about" style="left: 570px; top: 1430px; position: absolute" height="315" width="280"></iframe> 
+
+
+  </body>
+  
+  
+</html>
